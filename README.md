@@ -8,3 +8,14 @@
 
 - Users can also add info/notes about books they added to their list
 
+
+## To run the app 
+
+- Clone or download repository and run npm install in both frontend and backend separately
+
+- First run backend using npm start and then frontend with same command
+
+- Note - Frontend will only work when backend/server is running
+
+- Also update the port address and db address according to your machine
+

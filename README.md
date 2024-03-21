@@ -1,4 +1,6 @@
-# Full Stack Web Apllication Books Management App built using MERN Stack
+# Books Management App
+
+- Full Stack Web Application built using MERN Stack
 
 - App is designed for book lovers who wants to keeps record of the books they read
 

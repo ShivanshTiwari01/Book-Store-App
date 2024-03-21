@@ -6,7 +6,7 @@
 
 - Very Simple and Clean UI with two types of interfaces list based and card based
 
-- Users can choose UI type according to his own wish
+- Users can choose UI type according to their own wish
 
 - Users can also add info/notes about books they added to their list
 
